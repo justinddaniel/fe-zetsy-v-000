@@ -32,6 +32,7 @@ h2 {
 header {
 	border-bottom: 1px solid grey;
 	margin-bottom: 2px;
+	padding-bottom: 5px;
 }
 
 #necklace {
