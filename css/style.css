@@ -45,6 +45,6 @@ a:link img {
 	border: 3px solid grey;
 }
 
-#press a:hover {
+a:link img:hover {
 	border: 3px solid red;
 }
