@@ -44,3 +44,7 @@ a:hover {
 a:link img {
 	border: 3px solid grey;
 }
+
+#press a:hover {
+	border: 3px solid black;
+}
