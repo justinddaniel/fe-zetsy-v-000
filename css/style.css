@@ -41,6 +41,6 @@ a:hover {
 	text-decoration: underline;
 }
 
-#press img {
+a:link {
 	border: 3px solid grey;
 }
