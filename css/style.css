@@ -1,7 +1,7 @@
 /*////////////// Fonts //////////////*/
 
 @font-face {
-	font-family: Baskerville;
+	font-family: myFirstFont;
 	src: url(..fonts/Baskerville.ttc);
 }
 
@@ -21,7 +21,7 @@ body {
 }
 
 h1 {
-	font-family: Baskerville;
+	font-family: myFirstFont;
 	font-size: 4em;
 }
 
