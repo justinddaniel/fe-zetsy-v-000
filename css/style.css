@@ -23,3 +23,7 @@ body {
 h1 {
 	font-family: Baskerville;
 }
+
+header {
+	border-bottom: 2px solid grey;
+}
