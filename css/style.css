@@ -25,6 +25,10 @@ h1 {
 	font-size: 4em;
 }
 
+h2 {
+	font-size: 2em;
+}
+
 header {
 	border-bottom: 1px solid grey;
 	margin-bottom: 2px;
